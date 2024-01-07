@@ -1,4 +1,4 @@
-#InterestHub
+InterestHub
 
 In an era characterized by information abundance, the need for personalized recommendation systems has become paramount. The ubiquity of vast datasets, coupled with the potential of machine learning (ML) techniques, has opened avenues for creating intelligent tools that cater to individual preferences. This project introduces "InterestHub," a pioneering Model Creation Tool for Recommendation Systems, designed to empower users to construct and integrate personalized recommendation models seamlessly.
 
